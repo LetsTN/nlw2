@@ -19,7 +19,7 @@ Projeto desenvolvido durante a Next Level Week 2, da <a target="_blank" href="ht
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/danileao/nlw2
+    $ git clone https://github.com/LetsTN/nlw2
 
     # Entrar no diretório desejado
     $ cd web
@@ -32,5 +32,8 @@ Projeto desenvolvido durante a Next Level Week 2, da <a target="_blank" href="ht
     $ yarn install
 
     # Iniciar o projeto
+    ## no server
+    $ yarn run start
+    ## no mobile e no web
     $ yarn start
 ```
